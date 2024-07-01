@@ -118,4 +118,5 @@ class _MyHomePageState extends State<MyHomePage> {
 }
 
 ```
+![code-snapshot](https://github.com/appworkspaceRM/widget-dialog/assets/135511281/69a49e6a-db3f-4d33-85c0-3f7a5ee5eaee)
 
